@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    background-color: #D6D8D4;
+}
+
+.nav-bg{
+    background-color: rgb(255, 255, 255, 0.849);
+}
